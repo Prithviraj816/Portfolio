@@ -157,3 +157,7 @@ section h2 {
   font-size: 0.9rem;
   transition: background 0.3s;
 }
+
+.about {
+  font-size: large;
+}
